@@ -1,1 +1,1 @@
-snake-game-gn.netlify.app
+https://snake-game-gn.netlify.app/
